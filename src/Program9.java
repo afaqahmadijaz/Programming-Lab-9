@@ -14,7 +14,10 @@
 //
 //  Chapter:       Chapter 1 - 9, 11, and 15: ArrayList, Objects, Classes, Methods, Exception, and Files
 //
-//  Description:  <An explanation of what the program is designed to do>
+//  Description:  This program reads household survey data from a file,
+//                stores it in an ArrayList, and performs various analyses
+//                including calculating average income, identifying households
+//                below poverty level, and determining Medicaid eligibility.
 //
 //********************************************************************
 
